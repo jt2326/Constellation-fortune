@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/idnex/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#0792EB",
+    "navigationBarTitleText": "今日运势",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

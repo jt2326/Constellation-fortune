@@ -1,0 +1,55 @@
+/* pages/idnex/index.wxss */
+
+image{
+  width: 100%;
+}
+.section{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #fff;
+}
+.section picker{
+  font-size: 60rpx;
+  width: 200rpx;
+  text-align: center;
+  margin: 80rpx auto 0;
+  font-family: "STXinwei"
+}
+.info{
+  margin-top: 60rpx;
+  width: 100%;
+  padding: 0 80rpx;
+  box-sizing: border-box;
+}
+.info .item{
+  width: 100%;
+  height: 70rpx;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "KaiTi";
+}
+.info>.item>.key{
+  height: 100%;
+  display: block;
+  flex: 1;
+  text-align: right
+}
+.info>.item>.value{
+  height: 100%;
+  display: block;
+  flex:1;
+}
+.info>.item>.general{
+  height: 100%;
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+.info>.item>.des{
+  height: 100%;
+  width: 100%;
+  display: block;
+}
